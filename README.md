@@ -1,0 +1,1 @@
+# Genshin_AHK_Script
