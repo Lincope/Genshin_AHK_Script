@@ -1,1 +1,1 @@
-# Genshin_AHK_Script
+一个菜鸟的练手作品
