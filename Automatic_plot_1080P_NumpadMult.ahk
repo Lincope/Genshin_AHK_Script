@@ -23,6 +23,6 @@ NumpadMult_ok:=1
 loop
 {
 Click 1300,800
-Sleep 4500
+Sleep 100
 }
 return
